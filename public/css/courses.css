@@ -1,0 +1,16 @@
+#main-courses{
+
+}
+.list-cost-courses{
+    display: flex;
+}
+.list-cost-courses .item-cost{
+    width: 195px;
+    position: relative;
+    padding: 34px 28px;
+    background-color: #fff;
+    border-radius: 13px;
+    color: #53505f;
+    box-shadow: 0 0 10px #ebebeb;
+    margin: 20px 12px;
+}
